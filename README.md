@@ -1,2 +1,38 @@
-# ReConnectSphere-Survey-Analyser
-A beginner Python project for analysing anonymised survey responses.
+# ReConnectSphere Survey Analyser
+
+## Overview
+A beginner Python project developed as part of my
+ReConnectSphere CREST Gold project.
+
+The analyser is designed to explore anonymised
+questionnaire responses and identify patterns
+in the experiences of young people who have
+recently moved to the UK.
+
+## Project aims
+- Organise survey response data.
+- Analyse responses to identify common patterns.
+- Summarise findings to support user research.
+- Produce an output report.
+
+## Technologies
+- Python
+- CSV data handling
+
+## Skills developed
+- Python programming
+- Data analysis
+- Problem-solving
+- Understanding user research
+- Interpreting survey findings
+
+## Privacy
+The project is intended for anonymised survey
+data. No personally identifiable information
+should be included in uploaded datasets.
+
+## Project context
+This project supports the research behind
+ReConnectSphere, a digital support website
+designed for young people who have recently
+moved to the UK.
