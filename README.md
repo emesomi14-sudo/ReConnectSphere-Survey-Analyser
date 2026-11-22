@@ -36,3 +36,30 @@ This project supports the research behind
 ReConnectSphere, a digital support website
 designed for young people who have recently
 moved to the UK.
+
+## How it works
+
+The programme uses Python's CSV module to
+load questionnaire responses.
+
+It then uses Counter from Python's collections
+module to count repeated answers and calculate
+the percentage of responses for each answer.
+
+The results are saved in a text file named
+analysis_report.txt.
+
+## Project structure
+
+ReConnectSphere-Survey-Analyser/
+│
+├── README.md
+├── survey_analyser.py
+├── example_responses.csv
+└── analysis_report.txt
+
+## Future improvements
+
+- Add graphical visualisations.
+- Compare responses across different questions.
+- Improve the analysis of qualitative responses.
