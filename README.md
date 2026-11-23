@@ -94,3 +94,32 @@ python survey_analyser.py
 
 4. Enter the CSV filename when prompted.
 5. Open analysis_report.txt to view the results.
+
+## Project development and testing
+
+The analyser was developed using Python's CSV module
+and Counter from the collections library.
+
+The project includes an example CSV dataset to
+demonstrate the expected input format and a sample
+analysis report showing the intended output.
+
+The programme was structured into separate functions
+for loading responses, analysing answer patterns and
+saving results.
+
+## Limitations
+
+- The analyser counts matching answers but does not
+  interpret the meaning of longer written responses.
+- Results depend on the quality and completeness
+  of the supplied CSV data.
+- The example dataset is illustrative and should not
+  be treated as the original research dataset.
+
+## Future development
+
+- Introduce graphical data visualisations.
+- Analyse written responses using text-processing methods.
+- Compare patterns between different questionnaire groups.
+- Improve the reporting of incomplete responses.
