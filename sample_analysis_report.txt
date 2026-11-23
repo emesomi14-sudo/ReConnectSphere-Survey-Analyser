@@ -1,1 +1,19 @@
 
+
+ReConnectSphere Survey Analysis Report
+==========================================
+
+Example output generated from example_responses.csv.
+These six responses are illustrative sample data,
+not findings from the full ReConnectSphere research.
+
+Question: How did you find making friends?
+------------------------------------------
+Difficult: 3 responses (50.0%)
+Easy: 2 responses (33.3%)
+Sometimes difficult: 1 response (16.7%)
+
+Question: Did you feel supported?
+------------------------------------------
+Yes: 4 responses (66.7%)
+No: 2 responses (33.3%)
