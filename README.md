@@ -63,3 +63,34 @@ ReConnectSphere-Survey-Analyser/
 - Add graphical visualisations.
 - Compare responses across different questions.
 - Improve the analysis of qualitative responses.
+
+## Survey Research Visualisations
+
+The following charts illustrate key findings from the
+research conducted for ReConnectSphere.
+
+### Interest in an App
+![App Interest](app_interest.png)
+
+### Cultural Pressure
+![Cultural Pressure](cultural_pressure.png)
+
+### Cultural Representation
+![Cultural Representation](cultural_representation.png)
+
+### Cultural Stories
+![Cultural Stories](cultural_stories.png)
+
+### Sources of Support
+![Support](support.png)
+
+## Running the analyser
+
+1. Download or clone this repository.
+2. Ensure Python is installed.
+3. Run:
+
+python survey_analyser.py
+
+4. Enter the CSV filename when prompted.
+5. Open analysis_report.txt to view the results.
